@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 6bdc2d81db59c8341a73616bd7f65f00
+timeCreated: 1507012965
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: NavBharati
+  fontNames:
+  - NavBharati
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
