@@ -1,0 +1,650 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1e0da8f-ccb4-405d-ae70-80469505d674" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle___UnityAds__aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle____local_aars___C__Users_najit_Documents_GitHub_BJT_BharatiJumbleTumble_ExportedProject_V1_wo_Mi_GameCenter_libs_unity_classes_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__android_android_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../w_GameCenter/Jumble Tumble/.idea/libraries/Gradle___UnityAds__aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../w_GameCenter/Jumble Tumble/.idea/libraries/Gradle___UnityChannel__aar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../w_GameCenter/Jumble Tumble/.idea/libraries/Gradle____local_aars___C__Users_najit_Documents_GitHub_BJT_BharatiJumbleTumble_ExportedProject_w_GameCenter_Jumble_Tumble_libs_unity_classes_jar_unspecified_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../w_GameCenter/Jumble Tumble/.idea/libraries/Gradle__android_android_28.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../w_GameCenter/Jumble Tumble/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assembly-CSharp-Editor-firstpass.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assembly-CSharp-Editor-firstpass.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assembly-CSharp.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.45.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Api.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Logging.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.45.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.Unity.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Assets/Plugins/GitHub/Editor/GitHub.UnityShim.dll.mdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/XiaomiSupport.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/XiaomiSupport.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/data.unity3d" beforeDir="false" afterPath="$PROJECT_DIR$/../V1_w_Mi_GameCenter/Jumble Tumble/src/main/assets/bin/Data/data.unity3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/libs/UnityAds.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/libs/unity-classes.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/local.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/proguard-unity.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/New.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/2letters/1lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/2letters/2lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/2letters/3lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/2letters/4lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/2letters/5lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/3letters/1lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/3letters/2lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/3letters/3lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/3letters/4lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/Questions/3letters/5lang.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Assembly-CSharp.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Mono.Security.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.ComponentModel.Composition.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Configuration.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Core.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Data.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Diagnostics.StackTrace.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Drawing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.EnterpriseServices.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Globalization.Extensions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.IO.Compression.FileSystem.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.IO.Compression.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Net.Http.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Numerics.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Runtime.Serialization.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.ServiceModel.Internals.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Transactions.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Xml.Linq.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Xml.XPath.XDocument.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.Xml.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/System.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Analytics.StandardEvents.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Analytics.Tracker.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/Unity.Timeline.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.AIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.ARModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.AccessibilityModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.Advertisements.Android.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.Advertisements.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.AnimationModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.AssetBundleModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.AudioModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.ClothModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.CoreModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.CrashReportingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.DirectorModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.FileSystemHttpModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.GameCenterModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.GridModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.HotReloadModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.IMGUIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.ImageConversionModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.InputModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.JSONSerializeModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.LocalizationModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.ParticleSystemModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.PerformanceReportingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.Physics2DModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.PhysicsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.ProfilerModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.Purchasing.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.ScreenCaptureModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SharedInternalsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SpriteMaskModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SpriteShapeModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.StreamingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.StyleSheetsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.SubstanceModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.TLSModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.TerrainModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.TerrainPhysicsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.TextCoreModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.TextRenderingModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.TilemapModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UI.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UIElementsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UIModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UNETModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UmbraModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityAnalyticsModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityConnectModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityTestProtocolModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.VFXModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.VRModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.VehiclesModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.VideoModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.WindModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.XRModule.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/UnityEngine.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/mscorlib.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/Managed/netstandard.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/boot.config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/data.unity3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/platform_native_link.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/sharedassets0.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/sharedassets1.resource" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/bin/Data/unity default resources" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/assets/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/java/com/bharatiscript/jumbletumble/UnityPlayerActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/armeabi-v7a/libMonoPosixHelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/armeabi-v7a/libmain.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/armeabi-v7a/libmonobdwgc-2.0.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/armeabi-v7a/libunity.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/x86/libMonoPosixHelper.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/x86/libmain.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/x86/libmonobdwgc-2.0.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/jniLibs/x86/libunity.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/drawable-xhdpi/app_banner.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-anydpi-v26/app_icon.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-anydpi-v26/app_icon_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-hdpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-hdpi/app_icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-hdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-hdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-ldpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-ldpi/app_icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-ldpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-ldpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-mdpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-mdpi/app_icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-mdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-mdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xhdpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xhdpi/app_icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxhdpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxhdpi/app_icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxxhdpi/app_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxxhdpi/app_icon_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxxhdpi/ic_launcher_background.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/values-v21/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Jumble Tumble/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/APIUpdater/project-dependencies.graph" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/APIUpdater/project-dependencies.graph" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/CurrentLayout.dwlt" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/CurrentLayout.dwlt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/EditorUserBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/EditorUserBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/LastBuild.buildreport" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/LastBuild.buildreport" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Android.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Android/UnityChannel.aar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Android/UnityChannel.aar.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/CHANGELOG.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/CHANGELOG.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/ChannelPurchase.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/MiProductCatalog.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/MiProductCatalog.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image1.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image10.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image10.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image11.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image11.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image12.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image12.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image13.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image13.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image14.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image14.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image15.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image15.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image2.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image3.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image4.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image5.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image6.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image7.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image8.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image8.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image9.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/images/image9.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/index.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Documentation/index.md.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/UnityStore.dll.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Xiaomi.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/Xiaomi.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/AppStoreSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/AppStoreSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/AppStoreModel.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/AppStoreModel.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/AppStoreOnboardApi.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/AppStoreOnboardApi.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/AppStoreSettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/AppStoreSettingsEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/Editor.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/Editor.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/XiaomiPackageNameExtension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Editor/XiaomiPackageNameExtension.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Resources/AppStoreSettings.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/Resources/AppStoreSettings.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/XiaomiSupport.asmdef" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/XiaomiSupport/XiaomiSupport.asmdef.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PackageCache/com.unity.xiaomi@1.0.3/package.json.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/ChannelPurchase.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/UnityStore.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/XiaomiSupport.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/Managed/com.unity.multiplayer-hlapi.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/data.unity3d" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/Data/data.unity3d" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/ScriptsOnlyCache.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/PlayerDataCache/Android/ScriptsOnlyCache.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Assembly-CSharp.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Editor.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Editor.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.CollabProxy.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.TextMeshPro.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Timeline.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Timeline.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Timeline.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/Unity.Timeline.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.SpatialTracking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.SpatialTracking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.SpatialTracking.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.SpatialTracking.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/XiaomiSupport.dll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/XiaomiSupport.pdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-hlapi.Runtime.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/ScriptAssemblies/com.unity.multiplayer-weaver.Editor.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/7d2344-mainStage.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/StateCache/Hierarchy/7d2344-mainStage.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/assetDatabase3" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/assetDatabase3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/gfu/cache/gitlocks.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/gfu/cache/gitlocks.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/gfu/cache/gitstatusentries.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/gfu/cache/gitstatusentries.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/gfu/cache/gittrackingstatus.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/gfu/cache/gittrackingstatus.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/gfu/cache/repoinfo.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../../Library/gfu/cache/repoinfo.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/02/020d1c5f3dcc44a2e90899a0a27af48a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/02/020d1c5f3dcc44a2e90899a0a27af48a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/06/0668a01a6fc274116958b6c9a8326652" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/06/0668a01a6fc274116958b6c9a8326652.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/0a/0acfc27e421a742dabc42ec4014f45d1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/0a/0acfc27e421a742dabc42ec4014f45d1.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/0c/0c46dd37772af42bb9810422d5977a6c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/0c/0c46dd37772af42bb9810422d5977a6c.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/17/1727faade967f43b6a6dba36609f4bdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/17/1727faade967f43b6a6dba36609f4bdb.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/1f/1fa8923ea6d1d42749c0f63d1b463962" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/1f/1fa8923ea6d1d42749c0f63d1b463962.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/28/2805f313065c0427fb35eff72d43246b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/28/2805f313065c0427fb35eff72d43246b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/36/36d859f11c1ea4aefa05d4d1c74e1269" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/36/36d859f11c1ea4aefa05d4d1c74e1269.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/3e/3eaf9c72bd1514956b08c9a0ed3a8585" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/3e/3eaf9c72bd1514956b08c9a0ed3a8585.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/47/477ab585302e941e3b8085261c52bd6b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/47/477ab585302e941e3b8085261c52bd6b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/4e/4ef99acd90df4aeabee0bb0dd1decbe6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/4e/4ef99acd90df4aeabee0bb0dd1decbe6.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/54/549f128daf38c458e81d1efe6e42035b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/54/549f128daf38c458e81d1efe6e42035b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/55/5561009486faf4243965e4b9ce4e62c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/55/5561009486faf4243965e4b9ce4e62c2.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/61/61e13d6e323a4465a87bfbba92e1aea7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/61/61e13d6e323a4465a87bfbba92e1aea7.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/6f/6f27d2a8230dd40bab0a8339c554f438" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/6f/6f27d2a8230dd40bab0a8339c554f438.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/6f/6f75ddc2a197248198f816dc0cfa13e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/6f/6f75ddc2a197248198f816dc0cfa13e3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/7f/7f9b343cc0cc840ac9096a4e0c9e620a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/7f/7f9b343cc0cc840ac9096a4e0c9e620a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/86/868e0745d5c5146d88f3c3ec4a7db3b8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/86/868e0745d5c5146d88f3c3ec4a7db3b8.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/8b/8b6c859a0f75b4b33984c9092c30e8db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/8b/8b6c859a0f75b4b33984c9092c30e8db.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/8b/8be17ad05558e40a9bb709807433a2b4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/8b/8be17ad05558e40a9bb709807433a2b4.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/94/94a5874e9fb894c15975e4e0cbd6826d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/94/94a5874e9fb894c15975e4e0cbd6826d.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/97/979db80c4e10546fca64b80ea4e9cf17" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/97/979db80c4e10546fca64b80ea4e9cf17.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/ad/ad6a04a95a0e44de5840a9487311e96b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/ad/ad6a04a95a0e44de5840a9487311e96b.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/ae/aefe3648a892e484db725b88c6c91572" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/ae/aefe3648a892e484db725b88c6c91572.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b0/b06f09e7c13b14187bc141b92b19ce09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b0/b06f09e7c13b14187bc141b92b19ce09.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b1/b11c4a1c8b8b24016a66ebe36dfbcc78" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b1/b11c4a1c8b8b24016a66ebe36dfbcc78.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b1/b19a7dfab01b9411bba7ebd39359617e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b1/b19a7dfab01b9411bba7ebd39359617e.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b4/b4a9e40b1d1574159814dede56a53cb3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/b4/b4a9e40b1d1574159814dede56a53cb3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/bd/bd7d55d4f21514f369fb04e75bc09fe2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/bd/bd7d55d4f21514f369fb04e75bc09fe2.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/bf/bf5a27aa6733140feb1ec3fb5ce739ea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/bf/bf5a27aa6733140feb1ec3fb5ce739ea.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/c0/c0cd079feede749288c07cdee8413525" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/c0/c0cd079feede749288c07cdee8413525.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/c7/c7e681cfed6d5489b9c80f7f1c798414" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/c7/c7e681cfed6d5489b9c80f7f1c798414.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/c9/c93aa3edaeaf14328952a7524bea85c3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/c9/c93aa3edaeaf14328952a7524bea85c3.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/cf/cfd375853ab09456aaf09e607610061a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/cf/cfd375853ab09456aaf09e607610061a.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/eb/eb85c348ba5534a1ab138e77d31273b6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/eb/eb85c348ba5534a1ab138e77d31273b6.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/ec/eca06513904414b078a830503af689fe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/ec/eca06513904414b078a830503af689fe.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/f4/f448e31b84961486cb016732285b1496" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/f4/f448e31b84961486cb016732285b1496.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/fc/fcb4b3fa8d4f74acca2ce443650b2790" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Library/metadata/fc/fcb4b3fa8d4f74acca2ce443650b2790.info" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../keystore_JT_v1.1.keystore" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/bharatiscript/jumbletumble/UnityPlayerActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+          <provider editor-type-id="android-manifest" />
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alipay</find>
+    </findStrings>
+  </component>
+  <component name="GenerateSignedApkSettings">
+    <option name="EXPORT_PRIVATE_KEY" value="false" />
+    <option name="KEY_STORE_PATH" value="C:\Users\najit\Documents\GitHub\BJT\BharatiJumbleTumble\Keystore\keystore_JT_v1.1.keystore" />
+    <option name="KEY_ALIAS" value="bharati jumbletumble" />
+    <option name="REMEMBER_PASSWORDS" value="true" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build.gradle" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="616" />
+    <option name="height" value="427" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView">
+        <subPane>
+          <expand>
+            <path>
+              <item name="V1_wo_Mi_GameCenter" type="1abcf292:AndroidViewProjectNode" />
+              <item name="V1_wo_Mi_GameCenter" type="feadf853:AndroidModuleNode" />
+            </path>
+            <path>
+              <item name="V1_wo_Mi_GameCenter" type="1abcf292:AndroidViewProjectNode" />
+              <item name="Gradle Scripts" type="ae0cef3a:AndroidBuildScriptsGroupNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExportApk.ApkPath" value="C:\Users\najit\Documents\GitHub\BJT\BharatiJumbleTumble\ExportedProject\V1_wo_Mi_GameCenter" />
+    <property name="ExportApk.BuildVariants" value="release" />
+    <property name="ExportApk.SignV2" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="device.picker.selection" value="Pixel_2_API_29" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Keystore" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="V1_wo_Mi_GameCenter" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
+      <module name="V1_wo_Mi_GameCenter" />
+      <option name="DEPLOY" value="true" />
+      <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
+      <option name="DEPLOY_AS_INSTANT" value="false" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="DYNAMIC_FEATURES_DISABLED_LIST" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="-1" />
+      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
+      <option name="DEBUGGER_TYPE" value="Auto" />
+      <Auto>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Auto>
+      <Hybrid>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Hybrid>
+      <Java />
+      <Native>
+        <option name="USE_JAVA_AWARE_DEBUGGER" value="false" />
+        <option name="SHOW_STATIC_VARS" value="true" />
+        <option name="WORKING_DIR" value="" />
+        <option name="TARGET_LOGGING_CHANNELS" value="lldb process:gdb-remote packets" />
+        <option name="SHOW_OPTIMIZED_WARNING" value="true" />
+      </Native>
+      <Profilers>
+        <option name="ADVANCED_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_ENABLED" value="false" />
+        <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method v="2">
+        <option name="Android.Gradle.BeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1e0da8f-ccb4-405d-ae70-80469505d674" name="Default Changelist" comment="" />
+      <created>1561361106431</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1561361106431</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.32995737" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Run" />
+      <window_info anchor="bottom" id="Logcat" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Android Profiler" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.32936078" />
+      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Palette&#9;" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bharatiscript/jumbletumble/UnityPlayerActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="32" column="82" selection-start-line="32" selection-start-column="82" selection-end-line="32" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/AndroidManifest.xml">
+      <provider editor-type-id="android-manifest" />
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="48" column="27" selection-start-line="48" selection-start-column="27" selection-end-line="48" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
