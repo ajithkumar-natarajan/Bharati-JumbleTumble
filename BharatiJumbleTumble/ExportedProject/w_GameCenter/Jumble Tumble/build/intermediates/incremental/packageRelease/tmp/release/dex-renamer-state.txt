@@ -1,4 +1,0 @@
-#Fri Jun 21 15:54:18 IST 2019
-base.0=C\:\\Users\\najit\\Documents\\GitHub\\BJT\\BharatiJumbleTumble\\ExportedProject\\w_GameCenter\\Jumble Tumble\\build\\intermediates\\transforms\\dexMerger\\release\\0
-path.0=classes.dex
-renamed.0=classes.dex
